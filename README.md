@@ -1,4 +1,4 @@
-<H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
+<H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 <H3>NAME:Meenakshi M</H3>
 <H3>REGISTER NO: 212221240008</H3>
 <H3>EX. NO.6</H3>
