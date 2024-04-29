@@ -3,8 +3,7 @@
 <H3>REGISTER NO: 212221240008</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
-<H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
- <BR>
+<H3>Aim:  </H3>  to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
 <h3>Algorithm:</h3>
 Step 1: Import the nltk library.<br>
 Step 2: Download the 'punkt', 'wordnet', and 'averaged_perceptron_tagger' resources.<br>
